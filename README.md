@@ -19,6 +19,7 @@
 - Git Remotes에 있는 기존 주소를 삭제하고 자신이 사용할 Repository 주소를 넣는다
 - 새로운 Branche를 만드는겸 모든 내용을 Push한다
 
+<br><br>
 ## 각각의 브랜치 설명
 ### Mvvm branche -> mvvm 디자인 패턴을 적용할수 있는 구조
 ##### app
