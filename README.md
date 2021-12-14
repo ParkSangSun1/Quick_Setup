@@ -2,6 +2,7 @@
 <br><br>
 ## - Mvvm branche 
 ### mvvm 디자인 패턴을 적용할수 있는 구조
+##### app
 ![image](https://user-images.githubusercontent.com/67040465/145801681-f17aab06-4619-4163-96de-232cbbd8acaa.png)
 
 <br>
