@@ -23,6 +23,8 @@
 
 <br><br>
 ## 각각의 브랜치 설명
+#### 모든 브랜치는 Coroutine 사용을 기준으로 만들어졌습니다
+# <br>
 ### Mvvm branche -> mvvm 디자인 패턴을 적용할수 있는 구조
 ##### app
 ![image](https://user-images.githubusercontent.com/67040465/145801681-f17aab06-4619-4163-96de-232cbbd8acaa.png)
