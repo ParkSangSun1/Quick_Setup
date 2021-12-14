@@ -1,6 +1,5 @@
-# Quick_Setup - 프로젝트를 빠르게 SETUP하기 위한 Repository
-<br><br>
-## 사용방법
+# 매뉴얼
+## 내 프로젝트에 적용하는 방법
 ### Fork
 - 우측 화면에 Fork를 누르고 원하는 곳에 Fork한다
 - Fork를 완료한 자신의 Repository에서 이름은 Rename한다
@@ -12,21 +11,22 @@
 
 ### Clean
 - 우측 화면에 Code를 누르고 주소를 복사한다
-- 자신의 Repository를 생성한다
-- 원하는 형식의 Branche를 남겨두고 나머지 Branche는 삭제한다
-- Android Studio에 clean 한다, 이때 저장파일 이름은 원하는 이름으로 바꾼다
+- 자신이 사용할 Repository를 생성한다
+- Android Studio에서 clean 한다, 이때 저장파일 이름은 원하는 이름으로 바꾼다
+- 원하는 Branche를 선택후 Checkout한다
 - Android Studio에서 Settings.gradle파일에서 rootProject.name을 원하는 이름으로 바꾼다
 - 패키지 이름을 원하는 이름으로 바꾼다
+- Git Remotes에 있는 기존 주소를 삭제하고 자신이 사용할 Repository 주소를 넣는다
+- 새로운 Branche를 만드는겸 모든 내용을 Push한다
 
-## - Mvvm branche 
-### mvvm 디자인 패턴을 적용할수 있는 구조
+## 각각의 브랜치 설명
+### Mvvm branche -> mvvm 디자인 패턴을 적용할수 있는 구조
 ##### app
 ![image](https://user-images.githubusercontent.com/67040465/145801681-f17aab06-4619-4163-96de-232cbbd8acaa.png)
 
 <br>
 
-## - Clean architecture branche 
-### mvvm 디자인 패턴에 clean architecture를 지향한 구조
+### Clean architecture branche -> mvvm 디자인 패턴에 clean architecture를 지향한 구조
 ##### 전체 모듈 구조
 ##### ![image](https://user-images.githubusercontent.com/67040465/145914910-d1c95b1b-73d1-4499-9f91-964702fc3ca1.png)
 
