@@ -1,5 +1,23 @@
 # Quick_Setup - 프로젝트를 빠르게 SETUP하기 위한 Repository
 <br><br>
+## 사용방법
+### Fork
+- 우측 화면에 Fork를 누르고 원하는 곳에 Fork한다
+- Fork를 완료한 자신의 Repository에서 이름은 Rename한다
+- 원하는 형식의 Branche를 남겨두고 나머지 Branche는 삭제한다
+- Android Studio에 clean 한다, 이때 저장파일 이름은 원하는 이름으로 바꾼다
+- Android Studio에서 Settings.gradle파일에서 rootProject.name을 원하는 이름으로 바꾼다
+- 패키지 이름을 원하는 이름으로 바꾼다
+<br>
+
+### Clean
+- 우측 화면에 Code를 누르고 주소를 복사한다
+- 자신의 Repository를 생성한다
+- 원하는 형식의 Branche를 남겨두고 나머지 Branche는 삭제한다
+- Android Studio에 clean 한다, 이때 저장파일 이름은 원하는 이름으로 바꾼다
+- Android Studio에서 Settings.gradle파일에서 rootProject.name을 원하는 이름으로 바꾼다
+- 패키지 이름을 원하는 이름으로 바꾼다
+
 ## - Mvvm branche 
 ### mvvm 디자인 패턴을 적용할수 있는 구조
 ##### app
