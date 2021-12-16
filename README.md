@@ -29,8 +29,9 @@
 # <br>
 ### Mvvm branche -> mvvm 디자인 패턴을 적용할수 있는 구조
 ##### app
-![image](https://user-images.githubusercontent.com/67040465/145801681-f17aab06-4619-4163-96de-232cbbd8acaa.png)
-
+![image](https://user-images.githubusercontent.com/67040465/145801681-f17aab06-4619-4163-96de-232cbbd8acaa.png)'
+##### 설명
+##### https://asuhdevstory.tistory.com/63
 <br>
 
 ### Clean_architecture_one branche -> mvvm 디자인 패턴에 clean architecture를 지향한 구조
