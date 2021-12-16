@@ -33,7 +33,7 @@
 
 <br>
 
-### Clean architecture branche -> mvvm 디자인 패턴에 clean architecture를 지향한 구조
+### Clean_architecture_one branche -> mvvm 디자인 패턴에 clean architecture를 지향한 구조
 ##### 전체 모듈 구조
 ##### ![image](https://user-images.githubusercontent.com/67040465/145914910-d1c95b1b-73d1-4499-9f91-964702fc3ca1.png)
 
@@ -49,3 +49,16 @@
 ##### data
 ##### ![image](https://user-images.githubusercontent.com/67040465/145915413-7cd75c0e-fed4-40aa-8897-5410dc4b7c85.png)
 <br>
+
+### Clean_architecture branche_two -> 앞에 one에서 presentation 모듈을 삭제하고 app으로 대체한 구조
+##### 전체 모듈 구조
+##### ![image](https://user-images.githubusercontent.com/67040465/146285064-4cbcf60b-50e8-4685-b992-c34be5d90940.png)
+
+##### app
+##### ![image](https://user-images.githubusercontent.com/67040465/146285095-f219cc81-e521-4d21-ad21-58974e9bd7ed.png)
+
+##### domain
+##### ![image](https://user-images.githubusercontent.com/67040465/145915345-533f5f02-d9a6-423f-a4e7-9f10fae0e95f.png)
+
+##### data
+##### ![image](https://user-images.githubusercontent.com/67040465/145915413-7cd75c0e-fed4-40aa-8897-5410dc4b7c85.png)
