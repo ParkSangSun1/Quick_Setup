@@ -11,4 +11,3 @@ rootProject.name = "Quick_Setup"
 include ':app'
 include ':domain'
 include ':data'
-include ':presentation'

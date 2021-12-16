@@ -1,7 +1,7 @@
 package com.pss.quick_setup.di
 
 import com.pss.data.remote.api.SampleApi
-import com.pss.presentation.widget.utils.Utils.BASE_URL
+import com.pss.quick_setup.widget.utils.Utils.BASE_URL
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
