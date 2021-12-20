@@ -1,5 +1,12 @@
 # 매뉴얼
 ## 내 프로젝트에 적용하는 방법
+
+### 권장사항
+- Android Studio Arctic Fox
+- 테스트 버전
+## ![image](https://user-images.githubusercontent.com/67040465/146757408-56e4bfb7-bbf2-440e-a746-6bb184a8caed.png)
+<br>
+
 ### Fork
 - 우측 화면에 Fork를 누르고 원하는 곳에 Fork한다
 - Fork를 완료한 자신의 Repository에서 이름은 Rename한다
