@@ -37,7 +37,7 @@
 ### Mvvm branche -> mvvm 디자인 패턴을 적용할수 있는 구조
 ##### app
 ![image](https://user-images.githubusercontent.com/67040465/145801681-f17aab06-4619-4163-96de-232cbbd8acaa.png)'
-##### 설명
+##### 블로그 설명
 ##### https://asuhdevstory.tistory.com/63
 <br>
 
@@ -57,7 +57,7 @@
 ##### data
 ##### ![image](https://user-images.githubusercontent.com/67040465/145915413-7cd75c0e-fed4-40aa-8897-5410dc4b7c85.png)
 
-##### 설명
+##### 블로그 설명
 ##### https://asuhdevstory.tistory.com/64
 <br>
 
@@ -74,5 +74,5 @@
 ##### data
 ##### ![image](https://user-images.githubusercontent.com/67040465/145915413-7cd75c0e-fed4-40aa-8897-5410dc4b7c85.png)
 
-##### 설명
+##### 블로그 설명
 ##### https://asuhdevstory.tistory.com/64
