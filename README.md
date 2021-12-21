@@ -56,6 +56,9 @@
 
 ##### data
 ##### ![image](https://user-images.githubusercontent.com/67040465/145915413-7cd75c0e-fed4-40aa-8897-5410dc4b7c85.png)
+
+##### 설명
+##### https://asuhdevstory.tistory.com/64
 <br>
 
 ### Clean_architecture branche_two -> 앞에 one에서 presentation 모듈을 삭제하고 app으로 대체한 구조
@@ -70,3 +73,6 @@
 
 ##### data
 ##### ![image](https://user-images.githubusercontent.com/67040465/145915413-7cd75c0e-fed4-40aa-8897-5410dc4b7c85.png)
+
+##### 설명
+##### https://asuhdevstory.tistory.com/64
