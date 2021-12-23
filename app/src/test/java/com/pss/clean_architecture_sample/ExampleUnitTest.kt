@@ -1,4 +1,4 @@
-package com.pss.quick_setup
+package com.pss.clean_architecture_sample
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.pss.quick_setup.viewmode
+package com.pss.clean_architecture_sample.viewmode
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

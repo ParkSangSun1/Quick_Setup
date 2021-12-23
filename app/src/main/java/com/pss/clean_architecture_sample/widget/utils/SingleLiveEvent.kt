@@ -1,4 +1,4 @@
-package com.pss.quick_setup.widget.utils
+package com.pss.clean_architecture_sample.widget.utils
 
 import android.util.Log
 import androidx.annotation.MainThread

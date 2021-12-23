@@ -1,4 +1,4 @@
-package com.pss.quick_setup.di
+package com.pss.clean_architecture_sample.di
 
 import com.pss.data.remote.api.SampleApi
 import com.pss.data.repository.remote.datasource.MainDataSource

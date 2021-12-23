@@ -1,4 +1,4 @@
-package com.pss.quick_setup.widget.extension
+package com.pss.clean_architecture_sample.widget.extension
 
 import android.content.Context
 import android.content.Intent

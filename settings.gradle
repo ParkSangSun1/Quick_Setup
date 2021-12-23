@@ -7,7 +7,7 @@ dependencyResolutionManagement {
         maven { url 'https://jitpack.io' }
     }
 }
-rootProject.name = "Quick_Setup"
+rootProject.name = "Clean_Architecture_Sample"
 include ':app'
 include ':domain'
 include ':data'

@@ -1,7 +1,7 @@
-package com.pss.quick_setup.di
+package com.pss.clean_architecture_sample.di
 
 import com.pss.data.remote.api.SampleApi
-import com.pss.quick_setup.widget.utils.Utils.BASE_URL
+import com.pss.clean_architecture_sample.widget.utils.Utils.BASE_URL
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
