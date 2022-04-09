@@ -18,7 +18,7 @@
 - 패키지 이름을 원하는 이름으로 변경한다
 - app_name을 원하는 이름으로 변경한다
 - build.gradle(Module)에서 applicationId를 원하는 이름으로 변경한다
-- res -> values -> themes.xml에서 <style name="Theme.Quick_Setup" parent="..."> 부분의 name을 원하는 이름으로 변경한다
+- res -> values -> themes.xml에서 <style name="Theme.Quick_Setup" parent="..."> 부분의 name을 원하는 이름으로 변경한다 (이때 우클릭을 눌러 Refactor -> Rename을 이용해 바꿔주세요)
 - 파일이나 모듈이 생성되지 않았거나 보이지 않는다면 File -> Invalidate Caches / Restart... 해주세요
 <br>
 
@@ -31,7 +31,7 @@
 - 패키지 이름을 원하는 이름으로 변경한다
 - app_name을 원하는 이름으로 변경한다
 - build.gradle(Module)에서 applicationId를 원하는 이름으로 변경한다
-- res -> values -> themes.xml에서 <style name="Theme.Quick_Setup" parent="..."> 부분의 name을 원하는 이름으로 변경한다
+- res -> values -> themes.xml에서 <style name="Theme.Quick_Setup" parent="..."> 부분의 name을 원하는 이름으로 변경한다 (이때 우클릭을 눌러 Refactor -> Rename을 이용해 바꿔주세요)
 - 파일이나 모듈이 생성되지 않았거나 보이지 않는다면 File -> Invalidate Caches / Restart... 해주세요
 - Git Remotes에 있는 기존 주소를 삭제하고 자신이 사용할 Repository 주소를 넣는다
 - 새로운 Branch를 만드는겸 모든 내용을 Push한다
