@@ -1,8 +1,10 @@
 # 매뉴얼
+### 도움이 되셨다면 Star를 눌러주세요!
+##### <br>
 ## 내 프로젝트에 적용하는 방법
 
 ### 권장사항
-- Android Studio Arctic Fox
+- Android Studio Arctic Fox 이상 버전
 - 테스트 버전
 ## ![image](https://user-images.githubusercontent.com/67040465/146757408-56e4bfb7-bbf2-440e-a746-6bb184a8caed.png)
 <br>
@@ -79,4 +81,3 @@
 ##### 블로그 설명
 ##### https://asuhdevstory.tistory.com/64
 
-##### 도움이 되셨다면 Star를 눌러주세요!
