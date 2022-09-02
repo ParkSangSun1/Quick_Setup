@@ -3,5 +3,5 @@ repositories {
 }
 
 plugins {
-    `kotlin-dsl` // java dsl 설정
+    `kotlin-dsl`
 }
